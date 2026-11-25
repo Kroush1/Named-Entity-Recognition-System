@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Datasets and embeddings
+data/
+*.csv
+*.tsv
+glove*
+
+# Trained models and artifacts
+*.pt
+*.pth
+*.keras
+*.safetensors
+*.bin
+*.pkl
+artifacts/
+*_results/
+*_model/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

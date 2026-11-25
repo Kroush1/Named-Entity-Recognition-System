@@ -1,0 +1,16 @@
+accelerate
+datasets
+gradio
+jinja2
+jupyter
+kagglehub
+matplotlib
+numpy
+pandas
+pytorch-crf
+requests
+scikit-learn
+seaborn
+seqeval
+torch
+transformers
